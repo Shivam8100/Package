@@ -44,4 +44,4 @@ export default MyComponent;
 
 ## License
 
-\*\* This button component library is open-source and available under the MIT License. You are free to use and modify it according to your needs.
+> This button component library is open-source and available under the MIT License. You are free to use and modify it according to your needs.
