@@ -21,11 +21,9 @@ import { Button } from 'package-poc-shivam';
 const MyComponent = () => {
     return (
         <div>
-            {' '}
             <Button backgroundColor="#3498db" color="#ffffff">
-                {' '}
-                Click me{' '}
-            </Button>{' '}
+                Click me
+            </Button>
         </div>
     );
 };
